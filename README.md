@@ -74,3 +74,7 @@ Selanjutnya refresh Kembali browser,
 
 # Kemudian ubah file app/view/about.php seperti berikut
 ![14a](https://user-images.githubusercontent.com/56242226/122396731-80f31d00-cfa2-11eb-8e0a-e88a4bda4921.PNG)
+
+# selanjutnya refresh tampilan tersebut:
+![image](https://user-images.githubusercontent.com/56399268/122623904-22c05a00-d0c8-11eb-9e9b-2237c2020f1e.png)
+
