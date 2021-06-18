@@ -1,4 +1,11 @@
 # Lab11web-
+
+nama : rafli maulana aziz
+
+nim : 311910639
+
+kelas :ti19c1
+
 # Langkah-langkah Praktikum
 # Buat folder baru dengan nama lab11_php_ci pada docroot webserver (htdocs)
 ![1](https://user-images.githubusercontent.com/56399268/122621498-f1dc2700-d0bf-11eb-878a-49c506e16cf9.PNG)
