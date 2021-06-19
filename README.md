@@ -68,10 +68,6 @@ Selanjutnya refresh Kembali browser,
 # Kemudian buat folder template pada direktori view kemudian buat file header.php dan footer.php
 ![image](https://user-images.githubusercontent.com/56399268/122622681-a75ca980-d0c3-11eb-9c47-479d6905adbb.png)
 
-# footer.php
-![image](https://user-images.githubusercontent.com/56399268/122622835-2ce05980-d0c4-11eb-9e2f-749b0a70f2f1.png)
-
-
 # Kemudian ubah file app/view/about.php seperti berikut
 ![14a](https://user-images.githubusercontent.com/56242226/122396731-80f31d00-cfa2-11eb-8e0a-e88a4bda4921.PNG)
 
